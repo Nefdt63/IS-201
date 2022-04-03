@@ -1,0 +1,23 @@
+li{
+    font-family: sans-serif;
+    color: #666666;
+    font-display: fallback;
+}
+
+h4{
+    font-family: sans-serif;
+    color: black;
+    font-display: fallback;   
+}
+
+body{
+    background-color: whitesmoke;
+}
+{
+object-fit: scale-down;
+}
+
+p6{
+    font-size: 15px;
+    font color: grey;
+}

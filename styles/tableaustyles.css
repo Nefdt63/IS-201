@@ -1,0 +1,27 @@
+li{
+    font-family: sans-serif;
+    color: #666666;
+    font-display: fallback;
+}
+
+h1{
+    font-family: sans-serif;
+    color: black;
+    font-display: fallback; 
+    
+}
+
+body{
+    background-color: lightgray;
+}
+
+mark{
+    background-color: whitesmoke
+        
+}
+
+p{color: white}
+
+h2{
+    font font-style: italic
+}
